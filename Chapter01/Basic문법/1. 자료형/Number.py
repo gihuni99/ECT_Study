@@ -30,7 +30,10 @@ if round(a,4)==0.9:
     print(True)
 else:
     print(False)
-
+#추가적으로 반올림하는 명령어
+a=input()
+a=float(a)
+print( format(a, ".2f") ) #소수 2번째자리까지(3번째 자리에서) 반올림한 값
 
 #수 자료형의 연산
 a=7
