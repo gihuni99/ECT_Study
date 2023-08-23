@@ -15,7 +15,7 @@
 
 #예시 코드)
 
-array=[5,7,9,0,3,1,6,2,4,8]
+array=[5,7,9,6,10,11,16,12,24,18]
 
 def quick_sort(array,start,end):
     if start>=end: #원소가 1개이면 종료

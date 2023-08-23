@@ -1,15 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chapter02",
-    "\\Chapter02\\Basic문법",
-    "\\Chapter03(Greedy)",
-    "\\Chapter04(Implementation)",
-    "\\Chapter04(Implementation)\\게임 개발",
-    "\\Chapter05(DFS, BFS)",
-    "\\Chapter05(DFS, BFS)\\미로 탈출",
-    "\\Chapter05(DFS, BFS)\\음료수 얼려 먹기"
+    "\\Chapter06(Sorting)",
+    "\\Chapter06(Sorting)\\두 배열의 원소 교체",
+    "\\Chapter06(Sorting)\\성적이 낮은 순서로 학생 출력하기"
   ],
-  "SelectedNode": "\\Chapter05(DFS, BFS)\\미로 탈출\\sol.py",
+  "SelectedNode": "\\Chapter06(Sorting)\\두 배열의 원소 교체\\Sol.py",
   "PreviewInSolutionExplorer": false
 }
