@@ -1,0 +1,4 @@
+Sorting(정렬): 데이터를 특정한 기준에 따라서 순서대로 나열하는 것
+-> Binary Search의 전처리 과정이기도 하다
+
+종류: Selection Sort(선택 정렬), Insertion Sort(삽입 정렬), Quick Sort(퀵 정렬), Count Sort(계수 정렬)

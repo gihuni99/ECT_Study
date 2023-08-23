@@ -4,8 +4,12 @@
     "\\Chapter02",
     "\\Chapter02\\Basic문법",
     "\\Chapter03(Greedy)",
-    "\\Chapter04(Implementation)"
+    "\\Chapter04(Implementation)",
+    "\\Chapter04(Implementation)\\게임 개발",
+    "\\Chapter05(DFS, BFS)",
+    "\\Chapter05(DFS, BFS)\\미로 탈출",
+    "\\Chapter05(DFS, BFS)\\음료수 얼려 먹기"
   ],
-  "SelectedNode": "\\Chapter04(Implementation)\\게임 개발",
+  "SelectedNode": "\\Chapter05(DFS, BFS)\\미로 탈출\\sol.py",
   "PreviewInSolutionExplorer": false
 }
